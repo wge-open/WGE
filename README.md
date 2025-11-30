@@ -1,4 +1,4 @@
-# World Graphic Alphabet (GEC)
+# World Graphic Alphabet (WGE)
 GEC is a graphic symbol system designed globally. It enables cross - language communication and assists foreign - language reading without prior learning.
 
 [![中文文档](https://img.shields.io/badge/文档-中文版-important)](README_zh.md) [![Project Status: Active](https://img.shields.io/badge/status-active-brightgreen.svg)]() [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/World-Graphic-Alphabet-GEC)
